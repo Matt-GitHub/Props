@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Matthew Bedard",
+    "position": "TL",
+    "duration": "3 Months",
+    "language": "JavaScript, React, Node js",
+    "students": [
+      {
+        "name": "Gabby",
+        "position": "student"
+      },
+      {
+        "name": "Ramona",
+        "position": "student"
+      },
+      {
+        "name": "Stephen",
+        "position": "student"
+      }
+    ]
+  }
+]
